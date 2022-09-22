@@ -1,5 +1,5 @@
 {
-    "token": "MTAxMjczOTczODI4Njk1MjQ2OA.GBsZvk.uR8DlpPNzqOh0VGmP3Trn3ZYN8PxGJzSVNO_OQ",
+    "token": "MTAyMjQ3MjM5MjE1ODc0MDU0MA.GBHhn8.ohRe7Y2n4SEeZMYvOuXdtYjUcnTjdAT9bp1FIYQ",
     "prefix": ".",
     "multilang": {
         "languages": ["English", "Português"]
@@ -9,10 +9,10 @@
         "type": "STREAMING",
         "url": "https://twitch.tv/RabbitNXT"
     },
-    "admins": ["1002012496296693790", "1002012496296693790"],
+    "admins": ["911474885686071296", "911474885686071296"],
     "channels": {
-        "logs": "1015212481007865956",
-        "error": "1015212481007865956"
+        "logs": "1022193140268023941",
+        "error": "1022193140268023941"
     },
     "methods": {
     	"layer7": ["CF_UAM", "JS_PROXY", "CLOUD_JS", "CLOUD_UAM", "SOCKETS", "HTTP_GET", "HTTP_PPS", "HTTP_GHP", "HTTP_HEAD", "HTTP_HEX", "HTTP_MAX", "HTTP_POST", "HTTP_FLOW", "HTTP_NULL", "HTTP_RAND", "HTTP_SKULL", "HTTP_COOKIE", "COLLAPSE"],
